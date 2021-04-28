@@ -26,7 +26,7 @@
 👤 **Bhagyashree Patra**
 
 - GitHub: [@Vagyasri](https://github.com/Vagyasri)
-- Twitter: [@Vagyasri](https://twitter.com/Lucky86074644)
+- Twitter: [@Vagyasri](https://twitter.com/Vagyasri)
 - LinkedIn: [Bhagyashree Patra](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
 
 ## 🤝 Contributing
