@@ -19,7 +19,7 @@
 
 - [Copy this link](https://github.com/Vagyasri/FizzBuzz.git)
 - Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/Vagyasri/FizzBuzz.git)"
+- Run "git clone [Paste this link](https://github.com/Vagyasri/FizzBuzz.git)"
 
 ## Author
 
